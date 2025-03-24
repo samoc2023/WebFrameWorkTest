@@ -75,7 +75,7 @@ if __name__ == "__main__":
     print("=== Initial Manager ===")
     manager1.print_all_attributes()
 
-    # Update examples for Staff
+    # Update Staff
     print("\n--- Updating Staff ---")
     staff1.update_name("Samuel O'Connor")
     staff1.update_name(123)
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     print("=== Updated Staff ===")
     staff1.print_attributes()
 
-    # Update examples for Manager
+    # Update  Manager
     print("\n--- Updating Manager ---")
     manager1.update_years_of_experience(12)
     manager1.update_years_of_experience("Twelve")
