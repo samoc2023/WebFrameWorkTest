@@ -25,7 +25,7 @@ class TestStaffManager(unittest.TestCase):
         # Staff updates
         self.staff.update_name("Samuel O'Connor")
         self.assertEqual(self.staff.name, "Samuel O'Connor")
-        self.staff.update_name(123)  # Invalid; should remain unchanged
+        self.staff.update_name(123)  # should remain unchanged (invlid)
         self.assertEqual(self.staff.name, "Samuel O'Connor")
         
         self.staff.update_dob("1992-05-17")
