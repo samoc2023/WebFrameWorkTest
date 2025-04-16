@@ -325,12 +325,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kdjBh74vcmmTw8pbNORb" name="Page-4">
-    <mxGraphModel dx="900" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RkT-aviXBxrdsNRnba6E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-77" width="389" height="464" as="geometry" />
+          <mxGeometry x="10" y="-77" width="452" height="464" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-41" y="41" width="30" height="60" as="geometry" />
@@ -354,49 +354,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-4" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="160" width="30" height="60" as="geometry" />
+          <mxGeometry x="483" y="164" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="19" width="120" height="80" as="geometry" />
+          <mxGeometry x="108" y="10.5" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="105" width="120" height="80" as="geometry" />
+          <mxGeometry x="218" y="154" width="112" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="165" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="236" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=0.023;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="RkT-aviXBxrdsNRnba6E-8" target="RkT-aviXBxrdsNRnba6E-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RkT-aviXBxrdsNRnba6E-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236" y="264" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="64" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-1" value="Create Receipt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="246" y="179" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-2" value="View Receipt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="283" y="258" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-3" value="Make Payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="289" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="77.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-4" value="Process Payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="158" y="51" width="60" height="30" as="geometry" />
+          <mxGeometry x="135" y="32" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="196" width="120" height="80" as="geometry" />
+          <mxGeometry x="68" y="161" width="120" height="63" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-8" value="Issue Receipt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="221" width="60" height="30" as="geometry" />
+          <mxGeometry x="98" y="177.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="-61" width="120" height="80" as="geometry" />
+          <mxGeometry x="246" y="-77" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-10" value="View Billing History" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-36" width="60" height="30" as="geometry" />
+          <mxGeometry x="276" y="-48" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18" y="-54" width="120" height="80" as="geometry" />
+          <mxGeometry x="25" y="-73" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-12" value="Finacial Report" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="48" y="-29" width="60" height="30" as="geometry" />
+          <mxGeometry x="55" y="-48" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RkT-aviXBxrdsNRnba6E-3" target="RkT-aviXBxrdsNRnba6E-5">
           <mxGeometry relative="1" as="geometry" />
@@ -406,6 +409,27 @@
         </mxCell>
         <mxCell id="W4Z_iMovenIpP-twtgwt-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.253;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RkT-aviXBxrdsNRnba6E-2" target="W4Z_iMovenIpP-twtgwt-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=105;" vertex="1" parent="1">
+          <mxGeometry x="319" y="164" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-165;" vertex="1" parent="1">
+          <mxGeometry x="238" y="59" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RkT-aviXBxrdsNRnba6E-8" target="RkT-aviXBxrdsNRnba6E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RkT-aviXBxrdsNRnba6E-5" target="W4Z_iMovenIpP-twtgwt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=105;" vertex="1" parent="1">
+          <mxGeometry x="135" y="107.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4Z_iMovenIpP-twtgwt-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.412;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.409;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4Z_iMovenIpP-twtgwt-11" target="W4Z_iMovenIpP-twtgwt-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="237" as="sourcePoint" />
+            <mxPoint x="253" y="187" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -418,14 +442,14 @@
         <mxCell id="pfSWnezIiDpMUm_zVp26-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-11" y="-62" width="412" height="529" as="geometry" />
         </mxCell>
-        <mxCell id="pfSWnezIiDpMUm_zVp26-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pfSWnezIiDpMUm_zVp26-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-49" y="35" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pfSWnezIiDpMUm_zVp26-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="245" width="30" height="60" as="geometry" />
+        <mxCell id="pfSWnezIiDpMUm_zVp26-3" value="Nurse" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="271" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pfSWnezIiDpMUm_zVp26-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="30" height="60" as="geometry" />
+        <mxCell id="pfSWnezIiDpMUm_zVp26-4" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="35" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pfSWnezIiDpMUm_zVp26-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="-20" width="120" height="80" as="geometry" />
@@ -435,6 +459,24 @@
         </mxCell>
         <mxCell id="pfSWnezIiDpMUm_zVp26-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="282" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-1" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="289" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-3" value="Create Medical Record" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-4" value="Update Medical Record" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-5" value="View Medical Record" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="307" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="74" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzrgzS_gXCg_xS21Le9a-7" value="Access Permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="99" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
